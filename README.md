@@ -21,11 +21,11 @@ Mixat is a dataset of Emirati speech code-mixed with English. The dataset consis
 - Average Code Mixing Index (CMI): 0.11
   
 #### Breakdown by podcast:
-  - ##### Mixat - Part 1: [Download](https://github.com/Maryam-AlAli/Mixat-dataset/blob/main/Mixat%20-%20Part%201.zip)
+  - ##### Mixat - Part 1: [Download](https://github.com/Maryam-AlAli/Mixat-dataset/blob/main/Mixat%20-%20Part%201.zip?download=)
     This part consists of conversational, multi-speaker utterances from The Direction podcast. 
     - Total sentences: 3,723
     - Code-switched sentences: 1,258
-  - ##### Mixat -  Part 2: [Download](https://github.com/Maryam-AlAli/Mixat-dataset/blob/main/Mixat%20-%20Part%202.zip)
+  - ##### Mixat -  Part 2: [Download](https://github.com/Maryam-AlAli/Mixat-dataset/blob/main/Mixat%20-%20Part%202.zip?download=)
     This part consists of narrated utterances by a single female speaker, from the Think With Hessa podcast. 
     - Total sentences: 1,584
     - Code-switched sentences: 805
