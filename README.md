@@ -1,4 +1,5 @@
-# Mixat: A Data Set of Bilingual Emirati-English Speech
+# Mixat: A Data Set of Bilingual Emirati-English Speech <a href=''> <a href='https://arxiv.org/pdf/2405.02578'><img src='https://img.shields.io/badge/paper-Paper-red'></a> 
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Mixat is a dataset of Emirati speech code-mixed with English. The dataset consists of 15 hours of speech derived from two public podcasts featuring native Emirati speakers. The data collection process, annotation, and dataset statistics are described in detail in the accompanying paper. If you use this data set, please cite the following paper:
@@ -11,7 +12,6 @@ Mixat is a dataset of Emirati speech code-mixed with English. The dataset consis
   year={2024}
 }
 ```
-
 
 
 ## Data Set Statistics
