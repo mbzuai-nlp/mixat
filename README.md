@@ -1,4 +1,4 @@
-# Mixat: A Data Set of Bilingual Emirati-English Speech <a href=''> <a href='https://arxiv.org/pdf/2405.02578'><img src='https://img.shields.io/badge/paper-Paper-red'></a> 
+# Mixat: A Data Set of Bilingual Emirati-English Speech <a href=''> <a href='https://aclanthology.org/2024.sigul-1.26.pdf'><img src='https://img.shields.io/badge/paper-Paper-red'></a> 
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
