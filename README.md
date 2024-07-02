@@ -5,12 +5,19 @@
 Mixat is a dataset of Emirati speech code-mixed with English. The dataset consists of 15 hours of speech derived from two public podcasts featuring native Emirati speakers. The data collection process, annotation, and dataset statistics are described in detail in the accompanying paper. If you use this data set, please cite the following paper:
 
 ```
-@inproceedings{mixat,
-  title={Mixat: A Data Set of Bilingual Emirati-English Speech},
-  author={Al Ali, Maryam and Aldarmaki, Hanan},
-  booktitle={SIGUL 2024: 3rd Annual Meeting of the ELRA/ISCA Special Interest Group on Under-resourced Languages, a Satellite Workshop of LREC-COLING 2024},
-  year={2024}
+@inproceedings{al-ali-aldarmaki-2024-mixat,
+    title = "Mixat: A Data Set of Bilingual Emirati-{E}nglish Speech",
+    author = "Al Ali, Maryam Khalifa  and
+      Aldarmaki, Hanan",
+    booktitle = "Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages @ LREC-COLING 2024",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.sigul-1.26",
+    pages = "222--226"
 }
+
 ```
 
 
