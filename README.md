@@ -2,6 +2,11 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+### 🔴  Note
+Please use our **updated dataset transcriptions** in this <a href='https://github.com/mbzuai-nlp/PolyWER'>repo</a>
+
+---
+
 Mixat is a dataset of Emirati speech code-mixed with English. The dataset consists of 15 hours of speech derived from two public podcasts featuring native Emirati speakers. The data collection process, annotation, and dataset statistics are described in detail in the accompanying paper. If you use this data set, please cite the following paper:
 
 ```
@@ -26,7 +31,7 @@ Mixat is a dataset of Emirati speech code-mixed with English. The dataset consis
 - Number of sentences: 5,307
 - Percentage of code-switched sentences: 36%
 - Average Code Mixing Index (CMI): 0.11
-  
+
 #### Breakdown by podcast:
   - ##### Mixat - Part 1: [Download](https://github.com/Maryam-AlAli/Mixat-dataset/blob/main/Mixat%20-%20Part%201.zip?download=)
     This part consists of conversational, multi-speaker utterances from The Direction podcast. 
@@ -43,7 +48,9 @@ The Mixat dataset is publicly available for research purposes. We recommend usin
 ## File Structure
 - `Mixat - Part 1.zip` contains the audio files, in .wav format, for Part 1.
 - `Mixat - Part 2.zip` contains the audio files, in .wav format, for Part 2.
-- `metadata.csv`  contains the text transcriptions for both parts. 
+- ~~`metadata.csv`  contains the text transcriptions for both parts~~
+    - ❗  Please use our **updated dataset** in this <a href='https://github.com/mbzuai-nlp/PolyWER'>repo</a>
+
 
 ## License
 This dataset is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
